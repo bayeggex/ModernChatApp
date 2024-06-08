@@ -5,6 +5,8 @@
 
 Welcome to ModernChatApp, the modern chat application built with WPF! This application allows users to engage in real-time text, image, and GIF messaging, with the freedom to express themselves in various ways. Let's dive in and elevate your chat experience! 🚀
 
+![xd](https://github.com/bayeggex/ModernChatApp/assets/79448667/54904596-a8bf-4d76-b79f-f30884201de8)
+
 ## 📋 Table of Contents
 - [🌟 ModernChatApp - Express Yourself with Modern Chat Application!](#-ModernChatApp---express-yourself-with-modern-chat-application)
   - [📋 Table of Contents](#-table-of-contents)
