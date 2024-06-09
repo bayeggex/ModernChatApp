@@ -1,4 +1,4 @@
-# 🌟 ModernChatApp - Express Yourself with Modern Chat Application!
+# 🌟 ModernChatApp
 
 ![ModernChatApp](https://img.shields.io/badge/Modern%20Chat%20App-blue?style=flat-square)
 ![WPF](https://img.shields.io/badge/WPF-Application-blue?style=flat-square)
