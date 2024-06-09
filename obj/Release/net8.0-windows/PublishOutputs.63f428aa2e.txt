@@ -1,0 +1,5 @@
+C:\Users\bayeg\OneDrive\Documents\ModernChatApp\build\Chat.exe
+C:\Users\bayeg\OneDrive\Documents\ModernChatApp\build\Chat.dll
+C:\Users\bayeg\OneDrive\Documents\ModernChatApp\build\Chat.deps.json
+C:\Users\bayeg\OneDrive\Documents\ModernChatApp\build\Chat.runtimeconfig.json
+C:\Users\bayeg\OneDrive\Documents\ModernChatApp\build\Chat.pdb

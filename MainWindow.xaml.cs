@@ -228,5 +228,16 @@ namespace Chat
                 tag = "Other: ";
             }
         }
+    
+    }
+
+    public class MessageHandler
+    {
+        private List<string> _messages = new List<string>();
+
+        public void DeleteAndStoreMessage(string message)
+        {
+            _messages.Add(message);
+        }
     }
 }
