@@ -2,6 +2,8 @@
 
 ![ModernChatApp](https://img.shields.io/badge/Modern%20Chat%20App-blue?style=flat-square)
 ![WPF](https://img.shields.io/badge/WPF-Application-blue?style=flat-square)
+![Commit](https://img.shields.io/github/commit-activity/t/bayeggex/ModernChatApp?style=flat-square)
+
 
 Welcome to ModernChatApp, the modern chat application built with WPF! This application allows users to engage in real-time text, image, and GIF messaging, with the freedom to express themselves in various ways. Let's dive in and elevate your chat experience! 🚀
 
