@@ -67,7 +67,6 @@
             <Button Content="Add Image" Width="75" Height="40" Click="AddImageButton_Click"/>
             <Button Content="Add GIF" Width="75" Height="40" Click="AddGifButton_Click"/>
             <Button x:Name="SwitchUserButton" Content="Switch User" Width="100" Height="40" Click="SwitchUserButton_Click"/>
-
         </StackPanel>
 
         <TextBlock x:Name="CountdownTextBlock" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10" Foreground="White" FontSize="14"/>
